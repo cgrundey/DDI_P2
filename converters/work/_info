@@ -9,107 +9,107 @@ z2
 cModel Technology
 dC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/counter6bit
 vclk
-!s110 1521823241
+Z0 !s110 1521828249
 !i10b 1
 !s100 CN_?c3nmYe99UAT<[EWW=3
 IdR;O7WinFE[_Zmg2TodN01
-Z0 VDg1SIo80bB@j0V0VzS_@n1
-Z1 dC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters
 w1521044682
 8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/clk.v
 FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/clk.v
 L0 28
-Z2 OP;L;10.4a;61
+Z3 OP;L;10.4a;61
 r1
 !s85 0
 31
-!s108 1521823241.000000
+Z4 !s108 1521828249.000000
 !s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/clk.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/clk.v|
 !s101 -O0
 !i113 1
-Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
 vcounter6bit_cgrundey
-Z4 !s110 1521823242
+R0
 !i10b 1
 !s100 fn5Hzj7iEJ8Ca9SHKD75G3
 IOf]VYRQIgBT2ioQfThOjl0
-R0
 R1
+R2
 w1521507236
 8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/counter6bit_cgrundey.v
 FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/counter6bit_cgrundey.v
-Z5 L0 11
-R2
+Z6 L0 11
+R3
 r1
 !s85 0
 31
-Z6 !s108 1521823242.000000
+R4
 !s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/counter6bit_cgrundey.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/counter6bit_cgrundey.v|
 !s101 -O0
 !i113 1
-R3
+R5
 vsn184_cgrundey
-R4
+Z7 !s110 1521828250
 !i10b 1
-!s100 nDQ[_fK4TRI=aAD:NAX3d2
-Ie;VOW:DUozIlP2P^;G3i;1
-R0
+!s100 [c@g=Jl8X:0>Mf6]9V^bN1
+I57G_H[kFJ7n?Y^Xn::fmN1
 R1
-w1521754056
+R2
+w1521827757
 8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/sn184_cgrundey.v
 FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/sn184_cgrundey.v
 L0 9
-R2
+R3
 r1
 !s85 0
 31
-R6
+R4
 !s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/sn184_cgrundey.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/sn184_cgrundey.v|
 !s101 -O0
 !i113 1
-R3
+R5
 vsn185_cgrundey
-R4
+R7
 !i10b 1
-!s100 OIn;0O;R?>VKb_LY4AWIR3
-I[XQdDQ6YfNhK[>o?25X]D1
-R0
+!s100 NK@NZHXh9`MaUaok?<c7Z2
+IGWjGM7_dA1BFR0jBMW4=d1
 R1
-w1521755753
+R2
+w1521828237
 8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/sn185_cgrundey.v
 FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/sn185_cgrundey.v
 L0 9
-R2
+R3
 r1
 !s85 0
 31
-R6
+Z8 !s108 1521828250.000000
 !s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/sn185_cgrundey.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/sn185_cgrundey.v|
 !s101 -O0
 !i113 1
-R3
+R5
 vtb_converters_cgrundey
-R4
+R7
 !i10b 1
-!s100 MBSHg>nX5d=TGR1DFXeob1
-IHT3aWAHJT6MnN3n8ka:Z63
-R0
+!s100 cnUUdzZG>Y5;[z`[d@z[[3
+IXzR>;8hO_SVi@M;Q9KKc70
 R1
-w1521823069
+R2
+w1521825667
 8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/tb_converters_cgrundey.v
 FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/tb_converters_cgrundey.v
-R5
-R2
+R6
+R3
 r1
 !s85 0
 31
-R6
+R8
 !s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/tb_converters_cgrundey.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters/tb_converters_cgrundey.v|
 !s101 -O0
 !i113 1
-R3
+R5

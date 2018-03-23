@@ -21,7 +21,7 @@ module sn185_cgrundey(g_n, bin_in, bcd_out);
 		else begin
 			scratch = bin_in;
 			tempout = 6'b000000;
-			repeat(5) begin
+			repeat(6) begin
 				tempout = {tempout[4:0], scratch[5]};
 				scratch = scratch << 1;
 				if (scratch > 4) begin
@@ -29,6 +29,7 @@ module sn185_cgrundey(g_n, bin_in, bcd_out);
 				end
 			end
 		end
+		bcd_out = tempout;
 	end
 
 endmodule
