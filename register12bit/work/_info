@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/converters
+vclk
+Z0 !s110 1522005076
+!i10b 1
+!s100 CN_?c3nmYe99UAT<[EWW=3
+IfC[>_EiHf@?4EDeX20iCn3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit
+w1521044682
+8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/clk.v
+FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/clk.v
+L0 28
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1522005076.000000
+!s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/clk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/clk.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vregister12bit_cgrundey
+R0
+!i10b 1
+!s100 CVGl;S;IcEPL2kIeKmhJN2
+IKh:Ij?lMcP>l0bDHFfR<_0
+R1
+R2
+w1521919177
+8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/register12bit_cgrundey.v
+FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/register12bit_cgrundey.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/register12bit_cgrundey.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/register12bit_cgrundey.v|
+!s101 -O0
+!i113 1
+R5
+vtb_register12bit_cgrundey
+R0
+!i10b 1
+!s100 E6mlLEzS0lY_L@eT]UaWh1
+I4c<3Ah6a7^9iWAi;mZOjm1
+R1
+R2
+w1521912974
+8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/tb_register12bit_cgrundey.v
+FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/tb_register12bit_cgrundey.v
+L0 11
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/tb_register12bit_cgrundey.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/tb_register12bit_cgrundey.v|
+!s101 -O0
+!i113 1
+R5

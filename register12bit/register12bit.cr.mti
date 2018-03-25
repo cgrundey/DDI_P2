@@ -1,0 +1,22 @@
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/tb_register12bit_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/tb_register12bit_cgrundey.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_register12bit_cgrundey
+
+Top level modules:
+	tb_register12bit_cgrundey
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/clk.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/clk.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module clk
+
+Top level modules:
+	clk
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/register12bit_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/register12bit/register12bit_cgrundey.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module register12bit_cgrundey
+
+Top level modules:
+	register12bit_cgrundey
+
+} {} {}}

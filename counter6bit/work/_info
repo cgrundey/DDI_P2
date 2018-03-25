@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step4
 vclk
-Z0 !s110 1521823041
+Z0 !s110 1521996997
 !i10b 1
 !s100 CN_?c3nmYe99UAT<[EWW=3
 I32Tn[;PlP=h]3o3EULARL2
@@ -23,7 +23,7 @@ Z3 OP;L;10.4a;61
 r1
 !s85 0
 31
-Z4 !s108 1521823041.000000
+Z4 !s108 1521996997.000000
 !s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/counter6bit/clk.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/counter6bit/clk.v|
 !s101 -O0
@@ -51,7 +51,7 @@ Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Seni
 !i113 1
 R5
 vcounter6bit_cgrundey
-!s110 1521823042
+R0
 !i10b 1
 !s100 fn5Hzj7iEJ8Ca9SHKD75G3
 Iao]n63lCnMINL4W8b=Jk03
@@ -65,7 +65,7 @@ R3
 r1
 !s85 0
 31
-!s108 1521823042.000000
+R4
 !s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/counter6bit/counter6bit_cgrundey.v|
 R9
 !s101 -O0
