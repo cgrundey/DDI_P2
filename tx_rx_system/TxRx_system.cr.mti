@@ -1,9 +1,9 @@
-C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/sn184_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/sn184_cgrundey.v
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/transmit_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/transmit_cgrundey.v
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
--- Compiling module sn184_cgrundey
+-- Compiling module transmit_cgrundey
 
 Top level modules:
-	sn184_cgrundey
+	transmit_cgrundey
 
 } {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/clk.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/clk.v
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
@@ -12,33 +12,19 @@ Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 
 Top level modules:
 	clk
 
-} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/transmit_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/transmit_cgrundey.v
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/sn184_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/sn184_cgrundey.v
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
--- Compiling module transmit_cgrundey
+-- Compiling module sn184_cgrundey
 
 Top level modules:
-	transmit_cgrundey
+	sn184_cgrundey
 
-} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/sn185_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/sn185_cgrundey.v
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/tb_system1_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/tb_system1_cgrundey.v
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
--- Compiling module sn185_cgrundey
+-- Compiling module tb_system1_cgrundey
 
 Top level modules:
-	sn185_cgrundey
-
-} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/register12bit_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/register12bit_cgrundey.v
-Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
--- Compiling module register12bit_cgrundey
-
-Top level modules:
-	register12bit_cgrundey
-
-} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/receive_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/receive_cgrundey.v
-Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
--- Compiling module receive_cgrundey
-
-Top level modules:
-	receive_cgrundey
+	tb_system1_cgrundey
 
 } {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/tb_transmit_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/tb_transmit_cgrundey.v
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
@@ -47,12 +33,26 @@ Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 
 Top level modules:
 	tb_transmit_cgrundey
 
-} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/tb_system1_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/tb_system1_cgrundey.v
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/receive_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/receive_cgrundey.v
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
--- Compiling module tb_system1_cgrundey
+-- Compiling module receive_cgrundey
 
 Top level modules:
-	tb_system1_cgrundey
+	receive_cgrundey
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/register12bit_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/register12bit_cgrundey.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module register12bit_cgrundey
+
+Top level modules:
+	register12bit_cgrundey
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/sn185_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/sn185_cgrundey.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sn185_cgrundey
+
+Top level modules:
+	sn185_cgrundey
 
 } {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/tb_system2_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/tb_system2_cgrundey.v
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015

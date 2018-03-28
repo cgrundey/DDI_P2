@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/Modeltech_pe_edu_10.4a/examples
 vclk
-Z0 !s110 1522009614
+Z0 !s110 1522113633
 !i10b 1
 !s100 CN_?c3nmYe99UAT<[EWW=3
 IcAi]HE[gRQkf4NRlf3MDK1
@@ -23,14 +23,14 @@ Z3 OP;L;10.4a;61
 r1
 !s85 0
 31
-Z4 !s108 1522009614.000000
+Z4 !s108 1522113633.000000
 !s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/clk.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/clk.v|
 !s101 -O0
 !i113 1
 Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
 vcounter6bit_cgrundey
-Z6 !s110 1522009616
+Z6 !s110 1522113635
 !i10b 1
 !s100 fn5Hzj7iEJ8Ca9SHKD75G3
 I<YjU4LeeB0`k@@ijRmX7Q1
@@ -44,7 +44,7 @@ R3
 r1
 !s85 0
 31
-Z8 !s108 1522009616.000000
+Z8 !s108 1522113635.000000
 !s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/counter6bit_cgrundey.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/counter6bit_cgrundey.v|
 !s101 -O0
@@ -93,7 +93,7 @@ R4
 !i113 1
 R5
 vsn184_cgrundey
-Z9 !s110 1522009615
+Z9 !s110 1522113634
 !i10b 1
 !s100 =MMJ9bj[_5Z2Q4c4_RM2=0
 I8<G1GT>AIPTAjL:gIM]ZY0
@@ -107,7 +107,7 @@ R3
 r1
 !s85 0
 31
-R4
+Z10 !s108 1522113634.000000
 !s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/sn184_cgrundey.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/sn184_cgrundey.v|
 !s101 -O0
@@ -128,7 +128,7 @@ R3
 r1
 !s85 0
 31
-Z10 !s108 1522009615.000000
+R10
 !s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/sn185_cgrundey.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/sn185_cgrundey.v|
 !s101 -O0
@@ -156,13 +156,13 @@ R10
 !i113 1
 R5
 vtb_system2_cgrundey
-R6
+R9
 !i10b 1
-!s100 HMC?E]Z>4Te3JEiTF4YiN2
-I^B?Z5b8__ki5DPPACe7bL2
+!s100 l5cD1UD15bcXP5UA`0Y050
+ILi4I@LkP=b>SI1lz4G=Hj1
 R1
 R2
-w1522009605
+w1522113561
 8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/tb_system2_cgrundey.v
 FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system/tb_system2_cgrundey.v
 R7

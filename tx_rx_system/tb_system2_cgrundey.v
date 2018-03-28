@@ -14,7 +14,7 @@ module tb_system2_cgrundey();
   wire valid, clk_out;
   wire [11:0] reg_out;
 
-  clk #(70) C1(clk_en, clk_out);
+  clk #(55) C1(clk_en, clk_out);
   transmit_cgrundey U1(clk_out, ctr_clr, ctr_en, conv_en_n, reg_out);
   receive_cgrundey U2(clk_out, conv_en_n, reg_out, valid);
 
